@@ -23,6 +23,9 @@ The goal is to measure downtime rate, analyze efficiency, and highlight cost var
 - **Content:**   MachineID,  MachineAgeHours,  Shift,  Team,  DowntimeReason,  DowntimeStart,  DowntimeEnd,	DowntimeDurationHrs,	IncidentID,	BatchID,	PlannedProdTimeHrs,	                  ActualProdTimeHrs,	UnitsPlanned,	UnitsProduced,	HourlyOperatingCost,	BudgetedDowntimeCost,  ActualDowntimeCost
 
 
+![Preview dataset](manufacturing-dataset.png)
+
+
 ---
 
 ##  Tools & Skills
@@ -66,7 +69,7 @@ The goal is to measure downtime rate, analyze efficiency, and highlight cost var
 - Downtime reason & cost
 - Time lost trend
 
-![Dashboard Screenshot]()
+![Dashboard Screenshot](downtime-dashboard-snap.png)
 
 ---
 

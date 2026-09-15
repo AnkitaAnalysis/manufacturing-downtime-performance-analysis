@@ -108,5 +108,5 @@ The goal is to measure downtime rate, analyze efficiency, and highlight cost var
 - **Ankita Sharma** 
     Aspiring Business Analyst
  - Email: ankita.analysis@outlook.com
- - [LinkedIn](www.linkedin.com/in/ankitaa-s)
- - [GitHub]()
+ - [LinkedIn](https://www.linkedin.com/in/ankitaa-s)
+ - [GitHub](https://github.com/AnkitaAnalysis)

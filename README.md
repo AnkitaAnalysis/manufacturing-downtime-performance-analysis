@@ -22,6 +22,8 @@ The goal is to measure downtime rate, analyze efficiency, and highlight cost var
 - **Source:**    Maven Analytics – Manufacturing Downtime Dataset  
 - **Content:**   MachineID,  MachineAgeHours,  Shift,  Team,  DowntimeReason,  DowntimeStart,  DowntimeEnd,	DowntimeDurationHrs,	IncidentID,	BatchID,	PlannedProdTimeHrs,	                  ActualProdTimeHrs,	UnitsPlanned,	UnitsProduced,	HourlyOperatingCost,	BudgetedDowntimeCost,  ActualDowntimeCost
 
+###  Preview
+
 
 ![Preview dataset](manufacturing-dataset.png)
 
@@ -59,7 +61,7 @@ The goal is to measure downtime rate, analyze efficiency, and highlight cost var
 
 ---
 
-##  Dashboard
+##  Dashboard Features
 - Downtime incidents, rates (%), production Efficiency, hourly cost- **top KPIs**
 - OEE (%) split by Machine age 
 - Team's Performance
@@ -69,13 +71,15 @@ The goal is to measure downtime rate, analyze efficiency, and highlight cost var
 - Downtime reason & cost
 - Time lost trend
 
+###  Preview
+
 ![Dashboard Screenshot](downtime-dashboard-snap.png)
 
 ---
 
-## ▶️ How to Run This Project
+##  How to Use This Project
 1. Download the repository.  
-2. Open `Downtime_Performance_Dashboard.xlsx` in Excel.  
+2. Open `Downtime_Performance_Analysis.xlsx` in Excel.  
 3. Go to the Dashboard Worksheet.   
 4. Review KPI cards and charts for insights.  
 
@@ -98,10 +102,11 @@ The goal is to measure downtime rate, analyze efficiency, and highlight cost var
 - Extend analysis using Power BI/Tableau for dynamic visuals.
 - Add predictive downtime modeling using machine learning.  
 
----
+--- 
 
 ##  Author & Contact
-- **Name:** Ankita Sharma 
-- **Role:** Aspiring Business Analyst  
-- **Contact:** [Add your LinkedIn/GitHub/Email here]
-
+- **Ankita Sharma** 
+    Aspiring Business Analyst
+ - Email: ankita.analysis@outlook.com
+ - [LinkedIn](www.linkedin.com/in/ankitaa-s)
+ - [GitHub]()

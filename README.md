@@ -20,7 +20,7 @@ The goal is to measure downtime rate, analyze efficiency, and highlight cost var
 
 ##  Dataset
 - **Source:**    Maven Analytics – Manufacturing Downtime Dataset  
-- **Content:**   MachineID,  MachineAgeHours,  Shift,  Team,  DowntimeReason,  DowntimeStart,  DowntimeEnd,	DowntimeDurationHrs,	IncidentID,	BatchID,	PlannedProdTimeHrs,	                  ActualProdTimeHrs,	UnitsPlanned,	UnitsProduced,	HourlyOperatingCost,	BudgetedDowntimeCost,  ActualDowntimeCost
+- **Content:**   MachineID,  MachineAgeHours,  Shift,  Team,  DowntimeReason,  DowntimeStart,  DowntimeEnd,	DowntimeDurationHrs,	IncidentID,	BatchID,	PlannedProdTimeHrs,	ActualProdTimeHrs,	UnitsPlanned,	UnitsProduced,	HourlyOperatingCost,	BudgetedDowntimeCost,  ActualDowntimeCost
 
 ###  Preview
 
@@ -79,7 +79,7 @@ The goal is to measure downtime rate, analyze efficiency, and highlight cost var
 
 ##  How to Use This Project
 1. Download the repository.  
-2. Open `Downtime_Performance_Analysis.xlsx` in Excel.  
+2. Open `2_dashboard/Downtime_performance_analysis.xlsx` in Excel.  
 3. Go to the Dashboard Worksheet.   
 4. Review KPI cards and charts for insights.  
 
@@ -97,7 +97,7 @@ The goal is to measure downtime rate, analyze efficiency, and highlight cost var
 ---
 
 ##  Future Work
-- Refinement in storytelling and design.
+- Refinement in design and storytelling.
 - Integrate SQL for automated data refresh and reporting.
 - Extend analysis using Power BI/Tableau for dynamic visuals.
 - Add predictive downtime modeling using machine learning.  

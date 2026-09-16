@@ -25,7 +25,7 @@ The goal is to measure downtime rate, analyze efficiency, and highlight cost var
 ###  Preview
 
 
-![Preview dataset](manufacturing-dataset.png)
+![Preview dataset](0_dataset/manufacturing-data.png)
 
 
 ---
@@ -73,7 +73,7 @@ The goal is to measure downtime rate, analyze efficiency, and highlight cost var
 
 ###  Preview
 
-![Dashboard Screenshot](downtime-dashboard-snap.png)
+![Dashboard Screenshot](3_images/downtime-dashboard.png)
 
 ---
 
